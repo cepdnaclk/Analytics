@@ -1,0 +1,32 @@
+{
+  "title": "Organizer Dashboard – Analytics Module Suite",
+  "team": [
+    {
+      "name": "Ekanayake E.M.D.A.",
+      "email": "e21126@eng.pdn.ac.lk",
+      "eNumber": "E/21/126"
+    },
+    {
+      "name": "Sasindu K.T.",
+      "email": "e21253@eng.pdn.ac.lk",
+      "eNumber": "E/21/253"
+    },
+    {
+      "name": "Senawirathne D.M.W.J.I.",
+      "email": "e21055@eng.pdn.ac.lk",
+      "eNumber": "E/21/055"
+    },
+    {
+      "name": "Thilakarathne L.R.O.S.",
+      "email": "e21410@eng.pdn.ac.lk",
+      "eNumber": "E/21/410"
+    }
+  ],
+  "supervisors": [
+    {
+      "name": "Ms. Yasodha Vimukthi",
+      "email": "yasodhav@eng.pdn.ac.lk"
+    }
+  ],
+  "tags": ["Web", "Analytics", "Node.js", "Supabase"]
+}
