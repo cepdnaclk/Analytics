@@ -2,8 +2,8 @@
 
 ## **Team**
 **E/21/126**, Epitakaduwa E.K.G.D., e21126@eng.pdn.ac.lk  
-**E/21/253**, MANABANDU J.P.G.T.R., e21253@eng.pdn.ac.lk  
-**E/21/055**, BANDARA K.N.K.L.N., e21055@eng.pdn.ac.lk  
+**E/21/253**, Manabandu J.P.G.T.R., e21253@eng.pdn.ac.lk  
+**E/21/055**, Bandara K.N.K.L.N., e21055@eng.pdn.ac.lk  
 **E/21/410**, Thilakarathne L.R.O.S., e21410@eng.pdn.ac.lk  
 
 ## **Supervisor**
